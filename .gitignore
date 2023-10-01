@@ -1,3 +1,4 @@
 #Add file name to ignore file changes from git
 
+myJs.js
 *.js
